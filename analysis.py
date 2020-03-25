@@ -1,9 +1,9 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 18 13:51:22 2020
 
-@author: xeurix
+"""
+Thierno Aziz Diallo
+Pans Project 2020
+
+
 """
 
 import os

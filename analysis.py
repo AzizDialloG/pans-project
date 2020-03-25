@@ -1,8 +1,8 @@
-
+# -*- coding: utf-8 -*-
 """
 Thierno Aziz Diallo
 Pans Project 2020
-
+@author: adiallo
 
 """
 

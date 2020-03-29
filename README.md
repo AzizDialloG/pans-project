@@ -89,15 +89,19 @@ then enter below command
 python analysis.py
 
 # REFERENCES 
-[Machine Learning with Iris Dataset] https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset
+# [Machine Learning with Iris Dataset]
+ https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset
 https://www.kaggle.com/gopaltirupur/iris-data-analysis-and-machine-learning-python
 https://www.youtube.com/watch?v=rNHKCKXZde8
-[Machine Learning Tutorial] http://scikit-learn.org/stable/tutorial/basic/tutorial.html
+# [Machine Learning Tutorial]
+http://scikit-learn.org/stable/tutorial/basic/tutorial.html
 https://chartio.com/learn/data-analytics/what-is-exploratory-data-analysis/
- [How to Import CSV Files to Google's Colab Notebooks]
-  .https://www.youtube.com/watch?v=SHYAQHDQoU4
- [Google Colab - Executing External Python Files]
-  .https://www.tutorialspoint.com/google_colab/google_colab_executing_external_python_files.htm
+# [How to Import CSV Files to Google's Colab Notebooks]
+https://www.youtube.com/watch?v=SHYAQHDQoU4
+# [Google Colab - Executing External Python Files]
+https://www.tutorialspoint.com/google_colab/google_colab_executing_external_python_files.htm
  
+
+# [Python Pandas Tutorial 4: Read Write Excel CSV File]
+https://www.youtube.com/watch?v=-0NwrcZOKhQ
 https://www.webtoffee.com/how-to-save-csv-excel-file-as-utf-8-encoded/
-[Python Pandas Tutorial 4: Read Write Excel CSV File] https://www.youtube.com/watch?v=-0NwrcZOKhQ

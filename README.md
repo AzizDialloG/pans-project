@@ -94,6 +94,10 @@ https://www.kaggle.com/gopaltirupur/iris-data-analysis-and-machine-learning-pyth
 https://www.youtube.com/watch?v=rNHKCKXZde8
 [Machine Learning Tutorial] http://scikit-learn.org/stable/tutorial/basic/tutorial.html
 https://chartio.com/learn/data-analytics/what-is-exploratory-data-analysis/
-[UTF-8 encoding of CSV files] https://www.ibm.com/support/knowledgecenter/SSWU4L/Data/imc_Data/Data_q_a_watson_assistant/A_Simple_Way_to_UTF-8_Encode_your_CSV_fi191.html
+ [How to Import CSV Files to Google's Colab Notebooks]
+  .https://www.youtube.com/watch?v=SHYAQHDQoU4
+ [Google Colab - Executing External Python Files]
+  .https://www.tutorialspoint.com/google_colab/google_colab_executing_external_python_files.htm
+ 
 https://www.webtoffee.com/how-to-save-csv-excel-file-as-utf-8-encoded/
 [Python Pandas Tutorial 4: Read Write Excel CSV File] https://www.youtube.com/watch?v=-0NwrcZOKhQ

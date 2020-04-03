@@ -1,5 +1,5 @@
 # pans-project 2000
-#Thierno Diallo
+
 
 The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.
 
@@ -88,29 +88,28 @@ using pip install -r requirements.txt
 then enter below command
 python analysis.py
 
-# REFERENCES:
-# [Iris Flower Dataset]
+## REFERENCES:
+### [Iris Flower Dataset]
 https://www.kaggle.com/arshid/iris-flower-dataset
-# [Machine Learning with Iris Dataset]
- https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset
+
+### [Machine Learning with Iris Dataset]
+https://www.kaggle.com/jchen2186/machine-learning-with-iris-dataset
 https://www.kaggle.com/gopaltirupur/iris-data-analysis-and-machine-learning-python
 https://www.youtube.com/watch?v=rNHKCKXZde8
-# [Performance Machine Learning – NumPy]
+https://www.datacamp.com/community/tutorials/introduction-machine-learning-python
+### [Performance Machine Learning – NumPy]
 https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781787286382/1
-# [Machine Learning Tutorial]
+### [Machine Learning Tutorial]
 http://scikit-learn.org/stable/tutorial/basic/tutorial.html
 https://chartio.com/learn/data-analytics/what-is-exploratory-data-analysis/
-# [How to Import CSV Files to Google's Colab Notebooks]
+### [How to Import CSV Files to Google's Colab Notebooks]
 https://www.youtube.com/watch?v=SHYAQHDQoU4
-# [Google Colab - Executing External Python Files]
+### [Google Colab - Executing External Python Files]
 https://www.tutorialspoint.com/google_colab/google_colab_executing_external_python_files.htm
-# [Mounting Google Drive locally]
+### [Mounting Google Drive locally]
 https://colab.research.google.com/notebooks/io.ipynb#scrollTo=u22w3BFiOveA
 https://colab.research.google.com/notebooks/welcome.ipynb
 https://www.kdnuggets.com/2018/02/essential-google-colaboratory-tips-tricks.html
-#
- 
-
-# [Python Pandas Tutorial 4: Read Write Excel CSV File]
+### [Python Pandas Tutorial 4: Read Write Excel CSV File]
 https://www.youtube.com/watch?v=-0NwrcZOKhQ
 https://www.webtoffee.com/how-to-save-csv-excel-file-as-utf-8-encoded/

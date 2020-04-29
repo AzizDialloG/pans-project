@@ -26,7 +26,7 @@ except:
     print('Create folder with Iris-data and put iris.csv in it.')
 
 
-
+# Read data from file 'filename.csv' 
 data = pd.read_csv(path + 'iris.csv') #reading data from disk
 #data.columns = ["sepal_length", "sepal_width", "petal_length", "petal_width","species"]
 col = data.columns #storing columns of data in col list
